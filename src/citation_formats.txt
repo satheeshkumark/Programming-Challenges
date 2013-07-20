@@ -1,0 +1,65 @@
+Argentina	Supreme Court of Justice	Fallos, ##, ####	(?i)Fallos(\\,)?( )?[0-9]+(\\,)?( )?[0-9]+
+Argentina	Other or unspecified court	XX, ####-X, ###$__$ED, ####-X, ###$__$JA, ####-X, ###	(ED|JA),? ?[0-9]+\\-?[A-Z]+,? ?[0-9]+
+Australia	High Court of Australia	[####] HCA ##$__$(####) ### CLR (#)	((\\[)( )?([12]{1}[0-9]{3})( )?(\\])( )?HCA( )?[0-9]+)|((\\()( )?([12]{1}[0-9]{3})( )?(\\))( )?([0-9])+( )?CLR( )?([0-9])+)
+Austria	Constitutional Court 	VfGH ##.#.####, # XX ###/## XX ##/#	(VfGH)( )?[0-9]+(\\.)[0-9]+(\\.)[0-9]+(,)?( )?[0-9]+( )?[A-Z]+( )?[0-9]+/[0-9]+( )?[A-Z]+( )?[0-9]+/[0-9]+
+Austria	Supreme Judicial Court  	OGH ##.#.####, # XX ###/## XX ##/#$__$SSt ##.#.####, # XX ###/## XX ##/#	(OGH|SSt)( )?[0-9]+(\\.)[0-9]+(\\.)[0-9]+(,)?( )?[0-9]+( )?[A-Z]+( )?[0-9]+/[0-9]+( )?[ A-Z]+( )?[0-9]+/[0-9]+
+Bangladesh	Supreme Court	####, ## CLC (XXX)	[0-9]+(,)?( )?[0-9]+( )?CLC( )?(\\()[ A-Z]+(\\))
+Belgium	Constitutional Court 	XXXX. ## XXXXXX ####, XX. ####, X, ###	[A-Z]+\\.?( )?[0-9]+( )?[A-Z]+( )?([0-9])+(,)?( )?([A-Z])+(\\.)?( )?[0-9]+(,)?( )?([A-Z])+(,)?( )?[0-9]+
+Belgium	Supreme Court of Justice 	Cass. ## XXXXXX ####, XX. ####, X, ###$__$Arr.Cass. ## XXXXXX ####, XX. ####, X, ###	(Arr\\.)?(Cass)(\\.)?( )?[0-9]+( )?[A-Z]+( )?([0-9])+(,)?( )?([A-Z])+(\\.)?( )?[0-9]+(,)?( )?([A-Z])+(,)?( )?[0-9]+
+Bermuda	Other or unspecified court	Bda LR	(Bda)( )?LR
+Bolivia	Plurinational Constitutional Tribunal	Resolución  ###/## de  ##  XXXX de ####	Resolución( )?([0-9]+/[0-9]+)( )?de( )?[0-9]+( )?[A-Z]+( )?de( )?[0-9]+
+Botswana	High Court	[####] BWHC ##	((\\[)( )?([0-9]+)( )?(\\])( )?BWHC( )?[0-9]+)
+Botswana	Appeals Court	[####] BCA ##	((\\[)( )?([0-9]+)( )?(\\])( )?BCA( )?[0-9]+)
+Brazil	Supreme Federal Court 	Rext. ###.##, #X. XXX, XX ##.##.####$__$R.T.J. ##/##	((Rext)(\\.)?( )?([0-9]+\\.[0-9]+)(,)?( )?([0-9]+[A-Z]+)(\\.)?( )?([A-Z]+)?(,)?( )?[A-Z]+( )?([0-9]+\\.[0-9]+\\.[0-9]+))|((R\\.T\\.J)(\\.)?( )?([0-9]+/[0-9]+))
+Brazil	Higher Court of Justice	Resp. ###.##, #X. XXX, XX ##.##.####	(Resp)(\\.)?( )?([0-9]+\\.[0-9]+)(,)?( )?([0-9]+[A-Z]+)(\\.)?( )?([A-Z]+)?(,)?( )?[A-Z]+( )?([0-9]+\\.[0-9]+\\.[0-9]+)
+Canada	Supreme Court of Canada	[####] # S.C.R. ###	(\\[)( )?([12]{1}[0-9]{3})( )?(\\])( )?([0-9])+( )?S\\.C\\.R(\\.)?( )?[0-9]+
+Canada	Federal Court of Canada	[####] # F.C. ###	(\\[)( )?([12]{1}[0-9]{3})( )?(\\])( )?([0-9])+( )?F\\.C(\\.)?( )?[0-9]+
+China	Supreme People\'s Court	Zuigao Renmin Fayuan Gongbao, #### No. #	(?i)Zuigao Renmin Fayuan Gongbao(,)?( )?[0-9]{4}( )?No(\\.)?( )?[0-9]+
+China	High People\'s Courts	Renmin Fayuan Anlixuan, #### No. #	(?i)Renmin Fayuan Anlixuan(,)?( )?[0-9]{4}( )?No(\\.)?( )?[0-9]+
+Denmark	Supreme Court	UfR ####.### H.$__$U ####.### H.	(UfR|U)( )?([0-9]{4}\\.[0-9]+)( )?H(\\.)?
+Finland	Supreme Court	KKO:####:###$__$KKO: ###-X-##	(KKO)(:)?( )?(([0-9]+:[0-9]+)|([0-9]+\\-[A-Z]\\-[0-9]+))
+Germany	Federal Constitutional Court	BVerfG ###, ###	(BVerfG)( )?([0-9]+)(,)?( )?([0-9]+)
+Germany	Federal Court of Justice	BGH ###, ###	(BGH)( )?([0-9]+)(,)?( )?([0-9]+)
+Ghana	Supreme Court	(S.C.G.L.R)	(S.C.G.L.R)
+Greece	Supreme Civil and Criminal Court	N.B. ##/#####$__$Ell.Dik. ##/####$__$Nom.Kod.	((N\\.B)(\\.)?( )?([0-9]+/[0-9]+))|((Ell)(\\.)?( )?(Dik)(\\.)?( )?[0-9]+/[0-9]+)|((Nom)(\\.)?(Kod)(\\.)?)
+Hong Kong	Court of Final Appeal	[####] # HKLR ###$__$[####] # ITLJ ###	(\\[)([0-9]{4})(\\])( )?([0-9]+)( )?(HKLR|ITLJ)( )?[0-9]+
+India	Supreme Court	(####) (#) S.C.C. ##	(\\()([0-9]{4})(\\))( )?(\\()([0-9]+)(\\))( )?S.C.C(\\.)?( )?[0-9]+
+Ireland	Supreme Court	[####] ## ELR ##$__$[####] ## ICLR ##$__$[####] ## ITLR ##	(\\[)([0-9]{4})(\\])( )?([0-9]+)( )?(ELR|ICLR|ITLR)( )?[0-9]+
+Italy	Constitutional Court	Racc. Uff. Corte. Cost.	(?i)(Racc)(\\.)?( )?Uff(\\.)?( )?Corte(\\.)?( )?Cost(\\.)?( )?
+Italy	Supreme Court of Cassation	Cass., # XXXXX ####, n. ##$__$Cass. Sez.	((?i)(Cass)(\\.)?(,)?( )?([0-9]+)( )?([A-Z]+)( )?([0-9])+(,)( )?n(\\.)?( )?[0-9]+)|((?i)(Cass)(\\.)?( )?(Sez)(\\.)?)
+Japan	Supreme Court	Supreme Court, XXXX ##, ####, ## Keishu ###$__$## Minshu ###	((?i)Supreme( )?Court(,)?( )?[A-Z]+ [0-9]+(,)?( )?[0-9]+(,)?( )?[0-9]+( )?Keishu( )?[0-9]+)|((?i)[0-9]+( )?Minshu( )?[0-9]+)
+South Korea	Constitutional Court	#### Hun-XX ###$__$### KCCG ####	((?i)[0-9]+( )?((Hun\\-[A-Z]+)|KCCG)( )?[0-9]+)
+South Korea	Supreme Court	#### XX #####	((?i)[0-9]+( )?([A-Z]+)( )?[0-9]+)
+Malawi	Supreme Court of Appeal	MSCA XXX XXX ## of ####	(?i)MSCA( )?([A-Z]+)( )?([A-Z]+)( )?([0-9]+)( )?of( )?([0-9]+)
+Malaysia	Federal Court	[####] # M.L.J. ###	(\\[)([0-9]{4})(\\])( )?([0-9]+)( )?M(\\.)L(\\.)J(\\.)?( )?[0-9]+
+Morocco	Constitutional Council	Supreme Court Decision	(?i)Supreme( )?Court( )?Decision
+Mozambique	Constitutional Court	[####] MZTS ##	((\\[)( )?([0-9]+)( )?(\\])( )?MZTS( )?[0-9]+)
+Namibia	Supreme Court	#### (#) BCLR #### (NmSC)	[0-9]+( )?(\\()[0-9]+(\\))( )?BCLR( )?[0-9]+( )?(\\()NmSC(\\))
+Netherlands	Supreme Court 	NJ ####, ##	NJ( )?[0-9]+(,)?( )?[0-9]+
+New Zealand	Supreme Court	[####] # NZLR ###	(\\[)([0-9]{4})(\\])( )?([0-9]+)( )?NZLR( )?[0-9]+
+Nigeria	Supreme Court	(####) # N.W.L.R (XX. ##) ###	(\\()([0-9]{4})(\\))( )?([0-9]+)( )?N\\.W\\.L\\.R(\\.)?( )?(\\()([A-Z]+(\\.)?( )?[0-9]+)(\\))( )?([0-9]+)
+Norway	Supreme Court	Rt. #### S. ###	Rt(\\.)?( )?[0-9]+( )?S(\\.)?( )?[0-9]+
+Norway	Court of Appeal	RG #### S. ###	RG( )?[0-9]+( )?S(\\.)?( )?[0-9]+
+Pakistan	Supreme Court	#### SCMR ###	[0-9]+( )?SCMR( )?[0-9]+
+Philippines	Supreme Court	## Phil. ###, ### (####)$__$G.R. No. #####	([0-9]+( )?Phil(\\.)?( )?[0-9]+(,)?( )?[0-9]+( )?(\\([0-9]+\\)))|(G\\.R\\.( )?No(\\.)?( )?[0-9]+)
+Poland	Constitutional Tribunal	Biuletyn ##/####$__$ZP ##/##$__$IZPP ##/## of XXXXXX ##, #### of the Supreme Court	((?i)(Biuletyn|ZP)( )?([0-9]+/[0-9]+))|((?i)IZPP( )?([0-9]+/[0-9]+)( )?of( )?[A-Z]+( )?[0-9]+(,)?( )?[0-9]+( )?of( )?the( )?Supreme( )?Court)
+Portugal	Supreme Court	###/##.# XXXXX.X#.X#	[0-9]+/[0-9]+(\\.)[0-9]+( )?[A-Z]+(\\.)[A-Z]+[0-9]+(\\.)[A-Z]+[0-9]+
+Romania	Constitutional Court	Constitutional Court, Decision No. ### of ## XXXXXX, ####$__$#/####, CSJ Sect. XXX, DOSAR Nr. ####/####, Şedinţa publică de la ## XXXX ####, pp.##	((Constitutional Court)(,)?( )?Decision No(\\.)?( )?[0-9]+( )?of( )?[0-9]+( )?[A-Z]+(,)?( )?[0-9]+)|(?i)([0-9]+/[0-9]+(,)?( )?CSJ( )?Sect(\\.)?( )?[A-Z]+(,)?( )?DOSAR( )?Nr(\\.)?( )?[0-9]+/[0-9]+(,)?( )?Şedinţa( )?publică( )?de( )?la( )?[0-9]+( )?[A-Z]+( )?[0-9]+(,)?( )?pp(\\.)[0-9]+)
+South Africa	Constitutional Court	### (#) SA ### (CC)$__$[####] ZACC ##	(([0-9]+)( )?(\\()([0-9]+)(\\))( )?SA( )?([0-9]+)( )?(\\()CC(\\)))|((\\[)( )?([12]{1}[0-9]{3})( )?(\\])( )?ZACC( )?[0-9]+)
+Spain	Constitutional Court	STC ##/####	STC( )?[0-9]+/[0-9]+
+Swaziland	High Court	High Court XXXX XXXX  No. ####/####	High( )?Court( )?[A-Z]+( )?[A-Z]+( )?No(\\.)?( )?[0-9]+/[0-9]+
+Sweden	Supreme Court 	NJA #### s. ###	NJA( )?[0-9]+( )?[Ss](\\.)?( )?[0-9]+
+Switzerland	Federal Supreme Court	BGE ### XX ##, E.#X$__$ATF ### V ##	(BGE( )?[0-9]+( )?[A-Z]+( )?[0-9]+(,)?( )?E(\\.)?[0-9][A-Z])|(ATF( )?[0-9]+( )?V( )?[0-9]+)
+Taiwan	Supreme Court	Yuan Tzu No. ##	(?i)Yuan( )?Tzu( )?No(\\.)( )?[0-9]+
+Tanzania	Court of Appeal	[####] TLR ## (CA)	(\\[)([0-9]+)(\\])( )?TLR( )?[0-9]+( )?(\\()CA(\\))
+Thailand	Supreme Court of Justice	Supreme Court Dika No. ###/####	(?i)Supreme Court Dika No(\\.)?( )?[0-9]+/[0-9]+
+United Kingdom	Supreme Court	[####] UKSC ##$__$#### AC ### (SC)$__$#### All ER ### (SC)	((\\[)( )?([0-9]+)( )?(\\])( )?UKSC( )?[0-9]+)|([0-9]+( )?((AC)|(All ER))( )?[0-9]+( )?\\(SC\\))
+United Kingdom	House of Lords	[####] UKHL ##$__$#### AC ### (HL)$__$#### All ER ### (HL)	((\\[)( )?([0-9]+)( )?(\\])( )?UKHL( )?[0-9]+)|([0-9]+( )?((AC)|(All ER))( )?[0-9]+( )?\\(HL\\))
+United Kingdom	Privy Council	[####] UKPC ##$__$#### AC ### (PC)$__$#### All ER ### (PC)	((\\[)( )?([0-9]+)( )?(\\])( )?UKPC( )?[0-9]+)|([0-9]+( )?((AC)|(All ER))( )?[0-9]+( )?\\(PC\\))
+United Kingdom	Other or unspecified court	#### AC ###$__$#### All ER ###$__$(####)EWCA ###$__$#### QB ###$__$#### KB ###	([0-9]+ ?((AC)|(All ER)|(QB)|(KB)) ?[0-9]+)|(\\([0-9]+\\) ?EWCA ?[0-9]+)
+United States	Supreme Court	### S.Ct. ###$__$### U.S. ###	([0-9]+ ?((S\\.Ct\\.?)|(U\\.S\\.?))( )?[0-9]+)
+United States	Court of Appeal	### F.2d ###$__$### F.3d ###	([0-9]+ ?((F\\.2d\\.?)|(F\\.3d\\.?))( )?[0-9]+)
+Zambia	Supreme Court	[####] ZMSC ##$__$SCZ No. ## of ####$__$(####) Z.R. ### (S.C.)	((\\[)( )?([0-9]+)( )?(\\])( )?ZMSC( )?[0-9]+)|((?i)SCZ( )?No(\\.)?( )?[0-9]+( )?of( )?[0-9]+)|((\\([0-9]+\\) ?Z\\.R\\.? ?[0-9]+ ?\\(S\\.C\\.?))
+Zimbabwe	Supreme Court	[####] ZWSC ##$__$SC##/## (## XXXXXXX ####)	((\\[)( )?([0-9]+)( )?(\\])( )?ZWSC( )?[0-9]+)|(SC ?[0-9]+/[0-9]+ ?\\([0-9]+ ?[A-Z]+ ?[0-9]+)
+Zimbabwe	High Court	[####] ZWHHC ##$__$HH ##-## (## XXXXXXX ####)$__$[####] ZWBHC ##$__$HB ##-## (## XXXXXXX ####)	((\\[)( )?([0-9]+)( )?(\\])( )?(ZWHHC|ZWBHC)( )?[0-9]+)|((HH|HB) ?[0-9]+\\-[0-9]+ ?\\([0-9]+ ?[A-Z]+ ?[0-9]+)
+
