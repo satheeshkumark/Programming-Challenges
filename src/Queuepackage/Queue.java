@@ -1,5 +1,14 @@
 package Queuepackage;
 
+
+/*
+  * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+  * Problem : Implementation of Queue data structure and its functionalities 
+  * 
+*/
+
+
+
 class Node{
 	
 	private int value;
