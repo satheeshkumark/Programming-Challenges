@@ -1,6 +1,6 @@
 package Algorithms;
 /* 2013-Jul-15
- * Author : Satheeshkumar Karuppusamy
+ * @author satheeshkumark
  * Problem : Dutch National Flag Problem or Three way partitioning
  * Algorithm :
  	 * Accumulate the Partition3 values in the left and right corners of the array

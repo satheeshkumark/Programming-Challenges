@@ -2,7 +2,7 @@ package Algorithms;
 import java.util.Scanner;
 
 /*
- * Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  *	Problem :
  *		Search the given pattern in the input string 

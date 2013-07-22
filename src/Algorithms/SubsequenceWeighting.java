@@ -1,12 +1,14 @@
 package Algorithms;
 /*
- * Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  *	Problem :
  *		Given two arrays, find the maximum weight of elements in second array formed by any increasing subsequence of elements in first array
  *
  *  Algorithm :
  *  	Find the maximum weight from index position i up to index position j by choosing the current element in the current increasing subsequence and update in that corresponding index
+ *  
+ *  Runtime : O(n^2)
  *  			   	
 */
 

@@ -1,5 +1,12 @@
 package Others;
 
+/*
+ * @author satheeshkumark
+ * 
+ * Basic Data Structure for a Point object
+ * 
+ */
+
 public class Point{
 	private int x;
 	private int y;

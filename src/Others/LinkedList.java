@@ -1,7 +1,7 @@
 package Others;
 
 /*
- * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem : Linked List basic structure along with some functionalities
  * 

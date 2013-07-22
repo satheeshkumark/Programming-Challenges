@@ -1,7 +1,7 @@
 package Algorithms;
 /*
  * 2013-Jul-03
- * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem : Count the lexicographical position of the given word among all the permutations of the characters in the given word
  * 

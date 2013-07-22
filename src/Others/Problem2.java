@@ -1,7 +1,7 @@
 package Others;
 
 /*
- * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem : Given list of points find the nearest point from the origin
  * 

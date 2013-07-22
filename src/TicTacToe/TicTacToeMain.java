@@ -1,5 +1,10 @@
 package TicTacToe;
 
+/*	@author satheeshkumark
+ * 
+ * 	Main function for TcTacToe Application 
+ */
+
 import java.util.Scanner;
 
 public class TicTacToeMain {

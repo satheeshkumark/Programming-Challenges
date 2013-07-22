@@ -1,5 +1,10 @@
 package TicTacToe;
 
+/*	@author satheeshkumark
+ * 
+ * 	This class defines the basic data structures for Player object 
+ */
+
 public class Player {
 	private Symbol sym;
 	

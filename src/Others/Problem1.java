@@ -1,7 +1,7 @@
 package Others;
 
 /*
- * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem : Check whether the linked list is circular and merging two sorted lists
  * 

@@ -1,7 +1,7 @@
 package Algorithms;
 
 /*
- * Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem : Construct Binary Search Tree given pre-order traversal as the input
  * 

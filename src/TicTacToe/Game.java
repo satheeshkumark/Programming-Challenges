@@ -1,5 +1,10 @@
 package TicTacToe;
 
+/*	@author satheeshkumark
+ * 
+ * 	This class defines the basic data structures for Game object 
+ */
+
 import java.util.Random;
 
 public class Game {

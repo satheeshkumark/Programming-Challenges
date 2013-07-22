@@ -1,5 +1,10 @@
 package TicTacToe;
 
+/*	@author satheeshkumark
+ * 
+ * 	This class defines the basic data structures for Piece object 
+ */
+
 public class Piece {
 	private Symbol sym;
 	

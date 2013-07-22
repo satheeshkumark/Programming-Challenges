@@ -1,5 +1,10 @@
 package TicTacToe;
 
+/*	@author satheeshkumark
+ * 
+ * 	This class defines the basic data structures for board object 
+ */
+
 public class Board {
 	private Piece[][] board;
 	

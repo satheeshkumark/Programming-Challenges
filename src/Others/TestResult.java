@@ -1,6 +1,8 @@
 package Others;
 
-/* Basic class for FinalScoreQuestion Problem */
+/* @author satheeshkumark
+ * 
+ * Basic class for FinalScoreQuestion Problem */
 
 public class TestResult {
 	private int studentId;

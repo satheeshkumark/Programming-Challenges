@@ -1,5 +1,13 @@
 package Others;
 
+
+/*
+ * @author satheeshkumark
+ * 
+ * Basic Data Structure for a node object in a Linked List
+ * 
+ */
+
 public class Node {
 	private int data;
 	private Node next;

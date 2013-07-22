@@ -1,7 +1,7 @@
 package Algorithms;
 
 /*
- * Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Node class for Binary trees 
 */  

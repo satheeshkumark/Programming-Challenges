@@ -1,16 +1,19 @@
 package Algorithms;
+
+
+/*
+ * @author satheeshkumark
+ * Basic MYSql database connectivity in java
+ * 
+ */
+
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.io.*;
 import java.util.Scanner;
-
-
-/*
- * Basic MYSql database connectivity in java
- * 
- */
 
 public class MYSQLdb
 {	

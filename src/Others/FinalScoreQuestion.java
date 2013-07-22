@@ -1,7 +1,7 @@
 package Others;
 
 /*
- * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author : satheeshkumark
  * 
  * Problem : Find the average marks for each student given the list of test results
  * 

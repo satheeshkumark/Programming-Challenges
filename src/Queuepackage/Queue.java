@@ -2,7 +2,7 @@ package Queuepackage;
 
 
 /*
-  * Author : Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+  * @author satheeshkumark
   * Problem : Implementation of Queue data structure and its functionalities 
   * 
 */

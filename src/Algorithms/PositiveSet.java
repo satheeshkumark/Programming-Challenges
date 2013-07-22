@@ -1,6 +1,6 @@
 package Algorithms;
 /*
- * Satheeshkumar Karuppusamy, satheeshusc@gmail.com
+ * @author satheeshkumark
  * 
  * Problem :
  *  Given an array, find the smallest sum greater than zero. You can choose any subset of numbers from the given set. 
